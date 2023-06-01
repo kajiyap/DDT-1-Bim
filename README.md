@@ -81,6 +81,7 @@ Desenvolver  um  sistema  web que  indique  todos  os  processos  e  artefatos  
   - Python
   - Flask 
   - GitHub
+  - JavaScript
 
 ## 🛠 Ferramentas utilizadas</h2>
 
